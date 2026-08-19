@@ -1,0 +1,13 @@
+{
+  "name": "Interwetten",
+  "short_name": "Interwetten",
+  "icons": [
+    { "type": "image/png", "sizes": "48x48", "src": "/favicon-48x48.png" },
+    { "type": "image/png", "sizes": "96x96", "src": "/favicon-96x96.png" },
+    { "type": "image/png", "sizes": "192x192", "src": "/favicon-192x192.png" },
+    { "type": "image/png", "sizes": "180x180", "src": "/apple-touch-icon.png" }
+  ],
+  "theme_color": "#FFD200",
+  "background_color": "#111111",
+  "display": "standalone"
+}
